@@ -1,5 +1,5 @@
 os:
-  - windows
+  - linux
 # bahasa
 language: php
 # distro 
